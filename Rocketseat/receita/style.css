@@ -1,0 +1,42 @@
+/* Global====================================*/
+
+
+* {
+    margin: 15px;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #F5F5F5;
+}
+
+footer {
+    color: #8b0000;
+    text-align: center;
+    padding: 3rem;
+}
+
+header {
+    color: #483D8B;
+    text-align: justify;
+    padding: 20px 0 20px 35px;
+    font-size: 150%;
+
+}
+
+#igredientes {
+    color: #CB0203;
+    padding: 15px 0 0 0;
+}
+
+#img-pizza {
+    margin: 0 0 15px 15px;
+}
+
+#preparo {
+    color: #CB0203;
+    padding: 15px 0 0 0;
+}
+
+#receita-molho {
+    color: #CB0203;
+    padding: 15px 0 0 0;
+}
