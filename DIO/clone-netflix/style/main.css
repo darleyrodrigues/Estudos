@@ -43,9 +43,9 @@ header nav a:hover {
 
 /* Série Principal */
 
-.serie-principal {
+.jogo-principal {
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url(/Dio/Aula_JavaScript/img/BB-1920x1080.jpg);
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url(https://images.indianexpress.com/2021/10/God-of-War-PC.jpg);
     height: 400px;
     background-size: cover;
 
@@ -55,7 +55,7 @@ header nav a:hover {
     align-items: flex-start;
 }
 
-.serie-principal .descricao {
+.jogo-principal .descricao {
     margin-top: 10px;
     margin-bottom: 40px;
 }
@@ -90,15 +90,15 @@ header nav a:hover {
     margin-left: 20px;
 }
 
-.serie-principal .container{
+.jogo-principal .container{
     width: 70%;
 }
 
-.box-filme {
+.box-jogo {
     width: 100%;
     height: 100%;
 }
 
-.carrosel-filmes {
+.carrosel-jogos {
     margin-top: 5px;
 }
